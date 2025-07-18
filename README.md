@@ -33,8 +33,8 @@ This repository contains **`pathway_enrichment_analysis.R`**, an R script that p
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-user>/pathway_enrichment_analysis.git
-cd pathway_enrichment_analysis
+git clone https://github.com/Abtint/Pathway_Enrichment_Analysis.git
+cd Pathway_Enrichment_Analysis
 
 # Make the script executable (one time only)
 chmod +x scripts/pathway_enrichment_analysis.R
