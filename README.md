@@ -1,6 +1,6 @@
 # Pathway Enrichment Analysis (GO and KEGG)
 
-This repository contains **`pathway_enrichment_analysis.R`**, an R script that performs Gene Ontology (GO) and KEGG pathway enrichment on any differential expression results you supply. The script separates up-regulated and down-regulated gene sets, maps gene symbols to Entrez identifiers, runs enrichment with **clusterProfiler**, and writes all results to an Excel workbook.
+This repository contains **`pathway_enrichment_analysis.R`**, an R script that performs Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment on any differential expression results you supply. The script separates up-regulated and down-regulated gene sets, maps gene symbols to Entrez identifiers, runs enrichment with **clusterProfiler**, and writes all results to an Excel workbook.
 
 ---
 
@@ -78,4 +78,4 @@ https://github.com/Abtint/Pairwise-Correlation-Network-Analysis
 -----------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------
 ## More information about Pathway-enrichment analysis
-Pathway-enrichment analysis takes the list of genes that change in your experiment and checks it against curated databases, such as Gene Ontology (GO) and KEGG, to see whether certain pathways appear more frequently than would be expected by chance. By rolling many single-gene hits into broader categories, such as apoptosis, cytokine signalling, or oxidative phosphorylation, it turns scattered signals into clear, coordinated themes. This functional view is invaluable for disease research because it shows which molecular programs are truly disrupted, points to potential biomarkers or drug targets, and gives a concrete starting point for follow-up experiments aimed at understanding and treating the pathology.
+Pathway-enrichment analysis takes the list of genes that change in your experiment and checks it against curated databases, such as GO and KEGG, to see whether certain pathways appear more frequently than would be expected by chance. By rolling many single-gene hits into broader categories, such as apoptosis, cytokine signalling, or oxidative phosphorylation, it turns scattered signals into clear, coordinated themes. This functional view is invaluable for disease research because it shows which molecular programs are truly disrupted, points to potential biomarkers or drug targets, and gives a concrete starting point for follow-up experiments aimed at understanding and treating the pathology.
