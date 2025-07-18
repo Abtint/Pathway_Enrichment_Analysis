@@ -77,5 +77,5 @@ https://github.com/Abtint/Pairwise-Correlation-Network-Analysis
 
 -----------------------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------------------
-## More information about Pathway-enrichment analysis
+## More information about Pathway Enrichment Analysis
 Pathway-enrichment analysis takes the list of genes that change in your experiment and checks it against curated databases, such as GO and KEGG, to see whether certain pathways appear more frequently than would be expected by chance. By rolling many single-gene hits into broader categories, such as apoptosis, cytokine signalling, or oxidative phosphorylation, it turns scattered signals into clear, coordinated themes. This functional view is invaluable for disease research because it shows which molecular programs are truly disrupted, points to potential biomarkers or drug targets, and gives a concrete starting point for follow-up experiments aimed at understanding and treating the pathology.
