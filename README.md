@@ -4,6 +4,12 @@ This repository contains **`pathway_enrichment_analysis.R`**, an R script that p
 
 ---
 
+## Scripts in this repo
+
+Pathway_Enrichment_Analysis_GO_KEGG.R
+
+---
+
 ## Folder overview
 
 | Folder    | Contents                                                  |
